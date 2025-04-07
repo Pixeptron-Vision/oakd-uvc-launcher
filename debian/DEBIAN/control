@@ -1,0 +1,7 @@
+Package: oakd-uvc
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Sri-Chakra
+Depends: libc6 (>= 2.31), libglib2.0-0, libgtk-3-0
+Description: GUI app to toggle OAK-D UVC mode for Zoom/Meet
+ A friendly Tkinter GUI that allows you to activate and deactivate webcam mode on your Luxonis OAK-D device with one click.

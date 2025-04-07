@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=OAK-D Webcam GUI
+Exec=/usr/local/bin/oakd-uvc-gui
+Icon=oakd-uvc
+Terminal=false
+Categories=Utility;
