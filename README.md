@@ -66,7 +66,7 @@ This will remove the app, launcher, and all system integration files.
 Device not found?
 Make sure your OAK-D is connected and shows up in:
 
-lsusb | grep 03e7:2485
+lsusb 
 
 No video in Zoom/Meet?
 Run this and look for a Luxonis webcam device:
